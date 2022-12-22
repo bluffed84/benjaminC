@@ -36,7 +36,7 @@
     "bcryptjs": "^2.4.3",
     "bitbox-sdk": "^8.7.0",
     "glob": "^7.0.0",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^9.0.0",
     "kcors": "^2.2.1",
     "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
